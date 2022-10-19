@@ -1,7 +1,7 @@
 ## Olá! Meu Nome é Rennan Sapucaia🐸
 
-- 📚 Estudando JavaScript e TypeScript
-- 📘 Conhecimento Básico de Banco De Dados
+- 📚 Estudando C#
+- 📘 Conhecimentos em JavaScript, TypeScript, Html e Css
 - 😄 Pronome: Ele/Dele
 
  ##
