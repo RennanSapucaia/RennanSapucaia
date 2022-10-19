@@ -8,7 +8,7 @@
 
 <div>
   <a href="https://github.com/RennanSapucaia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RennanSapucaia&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RennanSapucaia&show_icons=true&theme=synthwave&include_all_commits=true&?count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RennanSapucaia&layout=compact&hide=shell&langs_count=8&theme=synthwave"/>
 </div>
 
