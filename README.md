@@ -2,7 +2,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rennan-sapucaia-0aa38b231/)
 
-![Rennan GitHub stats](https://github-readme-stats.vercel.app/api?username=RennanSapucaia&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RennanSapucaia&theme=radical&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=j/n/Y)](https://git.io/streak-stats)
+
 
 ## Tecnologias que eu utilizo
 
